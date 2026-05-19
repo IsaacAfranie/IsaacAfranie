@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @IsaacAfranie
-- 👀 I’m interested in ...web development 
-- 🌱 I’m currently learning ... html and css 
+- 👀 I am studying Bsc. Computer Science at KNUST
+- 🌱 I love solving problem
 - 💞️ I’m looking to collaborate on ...more projects 
-- 📫 How to reach me ... 0552787841
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ... +233 552 787 841
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... lol
 
 <!---
 IsaacAfranie/IsaacAfranie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
